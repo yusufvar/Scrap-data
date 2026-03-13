@@ -15,8 +15,12 @@ https://github.com/yusufvar/Scrap-data.git
 ```bash
 cd Scrap-data
 ```
-
-3. Instal semua requirement:
+3. Untuk yang pertamakali instal python
+   
+   ```bash
+pip3 install requests
+```
+5. Instal semua requirement:
 
 ```bash
 pip3 install -r requirements.txt
