@@ -15,7 +15,7 @@ https://github.com/yusufvar/Scrap-data.git
 ```bash
 cd Scrap-data
 ```
-3. Untuk yang pertamakali instal python:
+3. Untuk yang pertamakali instal python (opsional):
 ```bash
 pip3 install requests
 ```
